@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.stavba {
+  color: #1F4E79;
+  border: 2px solid #1F4E79;
+  padding: 15px;
+  max-width: 600px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
